@@ -11,8 +11,8 @@ This project was developed as a implementation to demonstrate the practical appl
 
 ## 📄 Project Resources
 For a deep dive into the research and logic behind this project, please refer to the following:
-* [📂 View Project Documentation](./docs/Project_Documentation.pdf)
-* [📊 View Project Presentation (PPT)](./docs/Project_Presentation.pptx)
+* [📂 Technical Report (PDF)](./docs/Project_Report.pdf)
+* [📊 Project Presentation (PPT)](./docs/Project_Presentation.pptx)
 
 ## 🚀 Key Technical Features
 * **Cryptographic Integrity:** Implements a dedicated `hasher.py` module to handle one-way hashing of sensitive document data.
